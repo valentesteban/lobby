@@ -1,0 +1,52 @@
+scoreboard:
+    enable: true
+    title:
+        interval: 5
+        text:
+            - '&e&lLOBBY'
+            - '&e&lL&6&lOBBY'
+            - '&6&lL&e&lO&6&lBBY'
+            - '&6&lLO&e&lB&6&lBY'
+            - '&6&lLOB&e&lB&6&lY'
+            - '&6&lLOBB&e&lY'
+    content:
+        line-1:
+            interval: 100
+            text:
+                - ''
+        line-2:
+            interval: 100
+            text:
+                - '&fRango: &7%luckperms_suffix%'
+        line-3:
+            interval: 100
+            text:
+                - '&fJugador: &b{lobby_scoreboard:player-name}'
+        line-4:
+            interval: 100
+            text:
+                - ''
+        line-5:
+            interval: 100
+            text:
+                - '&fLobby: &b#{lobby_scoreboard:lobby-number}'
+        line-6:
+            interval: 100
+            text:
+                - '&fConectados: &b%bungee_total%'
+        line-7:
+            interval: 100
+            text:
+                - ''
+        line-8:
+            interval: 100
+            text:
+                - '&fNivel: &e0 {lobby_scoreboard:star-symbol}'
+        line-9:
+            interval: 100
+            text:
+                - ''
+        line-10:
+            interval: 100
+            text:
+                - '&ewww.example.com'
