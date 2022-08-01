@@ -1,0 +1,10 @@
+# Put the number of the lobby here
+# this will be show on the scoreboard
+lobby-number: "1"
+
+messages:
+    join-message:
+        enabled: false
+        text:
+            - "&ahola!"
+            - "&chola 2!"
