@@ -1,0 +1,25 @@
+items:
+    server-selector:
+        enabled: true
+        lore-enabled: true
+
+        name: "&bModalidades &7| &fClick derecho"
+        lore:
+            - ""
+            - "&7Aquí podrás ver todos los minijuegos"
+            - "&7con los que cuenta el servidor."
+        id: 345
+        slot: 0
+
+    lobbies:
+        enabled: true
+        lore-enabled: true
+
+        name: "&bVestibulos &7| &fClick derecho"
+        lore:
+            - ""
+            - "&7Desde aquí podrás a través de los"
+            - "&7diferentes vestibulos de el servidor para"
+            - "&7encontrarte con tus amigos u otras personas."
+        id: 399
+        slot: 8
