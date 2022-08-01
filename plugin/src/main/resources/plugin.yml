@@ -1,0 +1,9 @@
+name: Lobby
+version: @version@
+author: Valente Esteban
+description: A functional and high-performance Lobby plugin
+main: am.esteban.lobby.plugin.Lobby
+
+softdepend:
+    - PlaceholderAPI
+    - Vault
